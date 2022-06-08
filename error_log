@@ -1,0 +1,21 @@
+[20-Oct-2018 21:02:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jozpbbhg_panel'@'localhost' (using password: YES) in /home/jozpedia/public_html/coeg/lib/database.php on line 6
+[20-Oct-2018 21:02:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jozpbbhg_panel'@'localhost' (using password: YES) in /home/jozpedia/public_html/coeg/lib/database.php on line 6
+[20-Oct-2018 21:05:35 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/jozpedia/public_html/coeg/lib/header.php on line 178
+[20-Oct-2018 21:05:35 Asia/Jakarta] PHP Notice:  Undefined variable: data_order in /home/jozpedia/public_html/coeg/index.php on line 84
+[20-Oct-2018 21:05:35 Asia/Jakarta] PHP Notice:  Undefined variable: count_users in /home/jozpedia/public_html/coeg/index.php on line 102
+[20-Oct-2018 21:12:36 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 19
+[20-Oct-2018 21:12:54 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 19
+[20-Oct-2018 21:13:11 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 19
+[20-Oct-2018 21:14:10 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/jozpedia/public_html/coeg/lib/header.php on line 175
+[20-Oct-2018 21:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: data_order in /home/jozpedia/public_html/coeg/index.php on line 84
+[20-Oct-2018 21:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: count_users in /home/jozpedia/public_html/coeg/index.php on line 102
+[20-Oct-2018 21:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:14:32 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:21:17 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
+[20-Oct-2018 21:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/jozpedia/public_html/coeg/lib/header.php on line 175
+[20-Oct-2018 21:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: data_order in /home/jozpedia/public_html/coeg/index.php on line 84
+[20-Oct-2018 21:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: count_users in /home/jozpedia/public_html/coeg/index.php on line 102
+[20-Oct-2018 21:21:24 Asia/Jakarta] PHP Notice:  Undefined variable: cfg_author in /home/jozpedia/public_html/coeg/lib/header.php on line 16
